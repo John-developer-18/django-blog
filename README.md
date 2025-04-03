@@ -1,12 +1,9 @@
-# Django Blog
+# Django Blog Web App
 
 A simple and fully functional blog application built using Django.
 
 ## Features
-- User authentication (Register, Login, Logout)
 - Create, Read, Update, and Delete (CRUD) blog posts
-- Commenting system
-- Category-based filtering
 - Responsive UI with Bootstrap
 
 ## Installation
